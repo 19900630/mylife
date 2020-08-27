@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "World traveler wooji"
+title: "World traveler wooji"
+description: "world traveler woojidream blog"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /mylife
@@ -20,7 +20,7 @@ authors:
     email: woojidream@gmail.com
     web: https://www.woojimarket.com
     facebook: https://www.facebook.com/woojimarket
-    description: "world traveller wooji"
+    description: "world traveler wooji"
   john lenon:
     name: John lenon
     display_name: John lenon
